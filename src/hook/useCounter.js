@@ -26,3 +26,5 @@ export const useCounter = ( initialValue = 10 ) => {
 
 
 }
+
+export default useCounter;
